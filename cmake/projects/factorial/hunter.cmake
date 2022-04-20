@@ -10,7 +10,7 @@ hunter_add_version(
     PACKAGE_NAME
     factorial
     VERSION
-    1.0.0
+    "1.0.0"
     URL
     "https://github.com/roflanpotsan/factorial/archive/v1.0.0.tar.gz"
     SHA1
