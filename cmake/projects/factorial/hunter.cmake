@@ -14,7 +14,7 @@ hunter_add_version(
     URL
     "https://github.com/roflanpotsan/factorial/archive/v1.0.1.tar.gz"
     SHA1
-    e0ee0e8248fb9be0510bf1a47fb6b3dab5284b4c
+    65cd7fd05f2ea662baa83106882869b7b310b153
 )
 
 hunter_pick_scheme(DEFAULT url_sha1_cmake)
